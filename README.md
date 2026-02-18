@@ -1,5 +1,7 @@
 # G-3-DVA-Capstone-Project
 
+#Google Sheet Link: https://docs.google.com/spreadsheets/d/16ElMb0FTYKnLBDf9hhPYoOXM3ZSa6DfOm477T5HaZGE/edit?gid=2032593986#gid=2032593986
+
 # Sectoral Data Analytics: Mutual Fund Market Intelligence
 
 ## Project Overview
