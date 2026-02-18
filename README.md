@@ -33,7 +33,7 @@ This project was executed by a structured 6-member team:
 | Yatin Singh | Strategy Lead | pivot table | Business questions, analytical direction, recommendations |
 | Pratham Malhotra | Data Lead | Data cleaning, standardization, Data Dictionary |
 | Ved Pawar | Dashboard Lead | Dashboard layout, slicers, visual design |
-| Abhijeet Kumar | Analytics Lead | Data cleaning, standardization KPIs, pivot logic and table, insights, Dashboard |
+| Abhijeet Kumar | Analytics Lead | Data cleaning, standardization, KPIs, pivot logic and table, insights, Dashboard |
 | Pushkar Jain | PPT & Quality Lead | Documentation, presentation quality |
 
 ---
