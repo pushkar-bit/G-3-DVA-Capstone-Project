@@ -2,6 +2,12 @@
 **DVA Capstone Project**
 
 ---
+## 🔗 Project Deliverable
+
+The final interactive dashboard can be accessed here:
+
+**📊 Mutual Fund Analytics Dashboard (Google Sheets)**  
+https://docs.google.com/spreadsheets/d/16ElMb0FTYKnLBDf9hhPYoOXM3ZSa6DfOm477T5HaZGE/edit?usp=sharing
 
 ## 📌 Project Overview
 
